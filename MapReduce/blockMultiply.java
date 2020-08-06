@@ -16,7 +16,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 public class blockMultiply {
 	
-	public static class Mapper1
+	public static class Mapper_1
 	  extends Mapper<LongWritable, Text, Text, Text> {
 		@Override
 		public void map(LongWritable key, Text value, Context context)
