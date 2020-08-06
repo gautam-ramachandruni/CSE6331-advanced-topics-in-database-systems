@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e08dff08-b96c-404c-b37a-3c63e4c4cd48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database-Systems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapReduce - Block Matrix Multiplication/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/MapReduce/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapReduce - Block Matrix Multiplication/blockMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/MapReduce/src/blockMultiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapReduce - Block Matrix Multiplication/compileandrun.odt" beforeDir="false" afterPath="$PROJECT_DIR$/MapReduce/compileandrun.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapReduce - Block Matrix Multiplication/inputblock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MapReduce/inputblock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapReduce - Block Matrix Multiplication/inputfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MapReduce/inputfile.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fhd3s2JhE5NATKZFhBJs0ETe07" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e08dff08-b96c-404c-b37a-3c63e4c4cd48" name="Default Changelist" comment="" />
+      <created>1596674061860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596674061860</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1472" y="133" key="SettingsEditor" timestamp="1596677548463">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1472" y="133" key="SettingsEditor/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596677548463" />
+  </component>
+</project>
